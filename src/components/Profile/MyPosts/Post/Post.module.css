@@ -1,0 +1,10 @@
+
+.content{
+    background-color: cornflowerblue ;
+    grid-area: c;
+}
+.avatar img{
+   border-radius: 30px;
+    height: 50px;
+    width: 50px;
+}

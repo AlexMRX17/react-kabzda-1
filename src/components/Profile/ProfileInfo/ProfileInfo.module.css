@@ -1,0 +1,15 @@
+.content img{
+    width: 1000px;
+}
+.content{
+    background-color: cornflowerblue ;
+    grid-area: c;
+}
+.item1{
+    color: greenyellow;
+}
+.descriptionBlock{
+    color: crimson;
+    padding: 20px;
+
+}
